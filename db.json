@@ -1,0 +1,576 @@
+{
+  "exposes": [
+    {
+      "id": "4093affe-b29a-5760-a3bf-d389d30137f5",
+      "propertyType": "house",
+      "price": "498.000 €",
+      "pricePerSqm": "2.946 €/m²",
+      "rawPricePerSqm": "2946.75",
+      "title": "Kirchwerder: \n\"Saniertes Rotklinkerhaus mit Einliegerwohnung\"",
+      "space": "169.0",
+      "rooms": "6",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Kirchwerder",
+      "postCode": "21037",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/HZZ6xUQkr7Tm6web5owK1g%3D%3D.LF0yh7sh53Z4B74rJGFG3TUyVNyeRGu5%2FPNnSmIO%2BfOGPblY4BtheJ4OJEqX5Q3Omh2HtEZXzlyN2DdmwwKFTG%2BsW4ZS%2BmKxIYXefpMQ7xRWrz1U7jTbGnu9FOcJcFI%2BcQ5dPm6I8sQrxiMn%2FWHlUg%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-12-14T13:30:35.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "2f8b0bcf-f4f0-5847-9173-4187053eb67d",
+      "propertyType": "house",
+      "price": "495.000 €",
+      "pricePerSqm": "2.663 €/m²",
+      "rawPricePerSqm": "2663.29",
+      "title": "Siedlungsgemeinschaft Radeland - 187m² große charmante Doppelhaushälfte mit viel Platz",
+      "space": "185.86",
+      "rooms": "5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Heimfeld",
+      "postCode": "21079",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/136WEpB7tTQEpTLab5Jg5g%3D%3D.mHLZdD3lnjCqqlYAMFKAar%2B2QwfMdjHNodGfNu1bhFWIOABu%2B%2BDqfaBIe4z5J5xLZ0EQQSUMpwbY6HlL8qKQCutBSEHrpBjEnncS40cJUO4cc87WEOp5M%2BmkgQpUZ3rs49W%2B4YpJxkUdOqIY5XmVfw%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-12-14T12:10:43.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "7738d58a-c556-5047-9212-e0d7af43f41a",
+      "propertyType": "house",
+      "price": "495.000 €",
+      "pricePerSqm": "3.150 €/m²",
+      "rawPricePerSqm": "3150.46",
+      "title": "Renovierungsbedürftiges Einfamilienhaus in Top-Lage in Wilstorf",
+      "space": "157.12",
+      "rooms": "6",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Wilstorf",
+      "postCode": "21079",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/GL9jahkuZ1xqJ%2FufrNPz6Q%3D%3D.JinsiX1iZXOYZY5joGkKnoqnSagaez6sBNoYXvqu21pzo0%2FAMkJpwJXg16dVxcGR1wrMgo%2BBaRX79gqGWsHdXPmqF2RbbgDgwZuQuoknWY1%2FWgnFhIcxWCqkS7WzXNTqM6bclW21lEeV%2FWLQlNzX8g%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-12-01T19:40:46.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "6a3d4626-4f00-5efb-af18-2a741fabb527",
+      "propertyType": "house",
+      "price": "349.000 €",
+      "pricePerSqm": "3.261 €/m²",
+      "rawPricePerSqm": "3261.68",
+      "title": "Erbpachtgrundstück! 4-Zimmer Einfamilienhaus auf 531qm Grundstück mit Garten, Teich und Garage",
+      "space": "107.0",
+      "rooms": "4",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Bramfeld",
+      "postCode": "22175",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/ytcFRYbJCBtcmg7R9mHv8A%3D%3D.wstXbuTilL66Tl9etkSOLDMRNVtcWIlUBbAS%2BbT2bR%2Fg6UmkpTFgfSlYad5zPUP7L1mGyfyyV7CBvTLfGvKvfE9y3sssYe%2FY5D6Dzqh6UMAuVaiyIjB6Q6qckP0sbs0gpc5961xQzohI3NVH0GNcRw%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-11-17T09:35:15.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "b6e5f1d2-b33e-5d92-b33c-c4fd004eea9f",
+      "propertyType": "apartment",
+      "price": "350.000 €",
+      "pricePerSqm": "3.431 €/m²",
+      "rawPricePerSqm": "3431.37",
+      "title": "Darf es auch ganz oben sein?\n\"Charmante Endetage in zentraler Lage von Bergedorf\"",
+      "space": "102.0",
+      "rooms": "3",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Bergedorf",
+      "postCode": "21029",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/Yv6hKWuRYK8MOANxbtvBIA%3D%3D.Alcoj%2FLTs9jCvhNyqsMppErG2GNa6azKqajn2blTZyse69%2Fsd4u2w%2F9EhNB8%2BVPPrEuToNrSPLt7lSJAfLkQTEHbpSXOwo6mfr6NRjWRH1cIMqLSIoK%2BlCM4uPom6fH3gkBUm49LEGuFLMyLaI%2Fa4A%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-11-16T13:53:50.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "a1df9ef2-99c9-5148-b89d-369349069611",
+      "propertyType": "house",
+      "price": "499.500 €",
+      "pricePerSqm": "3.307 €/m²",
+      "rawPricePerSqm": "3307.95",
+      "title": "Hamburger Jugendstil-Perle sucht kreativen Eigentümer",
+      "space": "151.0",
+      "rooms": "7",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Langenhorn",
+      "postCode": "22417",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/SoMUP1q8jb%2Bx8MhmnBitRA%3D%3D.rQtnAWW0OsMtF7%2BLV5pUaXonfKFJDPG%2Fps4BcW4IhAjUENj782PgaEqfN0Df9BkLKrv1zVjacjeg3Kpv2VABieEGtxMxNCm99HfQRj4Z0OJaxQCxAtrhJawWfEvVDQ3NJYGiBShTScg9a3hX7RFopA%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-11-13T18:02:39.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "10948c1f-a23d-5f84-a170-669897eed5d8",
+      "propertyType": "house",
+      "price": "495.000 €",
+      "pricePerSqm": "3.721 €/m²",
+      "rawPricePerSqm": "3721.8",
+      "title": "Familienzuhause in Sasel",
+      "space": "133.0",
+      "rooms": "5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Sasel",
+      "postCode": "22393",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/cKQr9vOsWr2d8z79xxv9Rw%3D%3D.Xylp%2Fym0kow5Q6%2BEDvtV7utxrg9W2sv808%2Fqch2272A7OPSv1moQiFEishdSavw%2B9LUNBCw%2B40VLTBVVasxl9lSYydF%2BNwnvKCSzfrnS%2BK2ksCi2e%2BYmnB%2B31EW2cNFdnGg0Oko51MJBo9ykJ2cFdA%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-11-13T09:48:33.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "fc484d0b-a4e0-530c-85aa-29ef6bd6f63d",
+      "propertyType": "house",
+      "price": "360.000 €",
+      "pricePerSqm": "2.666 €/m²",
+      "rawPricePerSqm": "2666.67",
+      "title": "Großzügige DHH in bevorzugter Lage",
+      "space": "135.0",
+      "rooms": "5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Lohbrügge",
+      "postCode": "21031",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/eBH2DX653hgfiVF4C%2B178g%3D%3D.47aXirf4JCs0cYXl5XLcM6oNiHux750EYIWvWmzpUQm2BHejFilzrQMX06PTWLON6ZP36vrijZyw%2BtCp8KR%2BvJkcyFfdSUdA2E2KHTcIy5Ws8TH1xHq1hqp%2F4IOA2YMz05UWMkVn7MtLiEvTJW%2F3WA%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-11-09T13:03:34.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "d8bf3492-b6b1-500f-b74d-8d1dce6af9cf",
+      "propertyType": "house",
+      "price": "450.000 €",
+      "pricePerSqm": "3.750 €/m²",
+      "rawPricePerSqm": "3750.0",
+      "title": "Miteigentumsanteil an Einfamilienhaus & Garten - für Profis",
+      "space": "120.0",
+      "rooms": "4",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Poppenbüttel",
+      "postCode": "22391",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/eBDxjm69jSoteELVHRaPlA%3D%3D.xfFT1VHB1xgUVWZHPfmbgAJbSq0a9aT%2BKhl%2BX4v8FoDc4JJT6EtMjpnrl08e5zx1Z4yr0mrpuu6jdL%2FhQUxmmoFNNDfVdpqyw68nd1uPhKaiJC1UtygkfnAZeGNAPt4bCVLP0J3XwCXx29NmJ%2Fzv5A%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-11-01T18:38:17.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "0fe04c9b-48bb-522c-8292-f0c2a9674101",
+      "propertyType": "house",
+      "price": "367.500 €",
+      "pricePerSqm": "3.178 €/m²",
+      "rawPricePerSqm": "3178.52",
+      "title": "* Interessante Haushälfte * naturnah * Kamin * EBK * Duschbad * Carport* Garten * uvm.",
+      "space": "115.62",
+      "rooms": "4.5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Allermöhe",
+      "postCode": "21035",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/3FMkjJSBGM6FKDyCb6orjA%3D%3D.arVn5Eg9aR81N85ZRrkge9Co%2FUNJeRqos91Rzbp9WBFaJ1lcR92T2cX9PlFfJ2QhYzX6reTtQX4t8WHRAKcW7GfpG8X1TFB288tjIysGA5OS9k7Aa3ssU%2BDhZ%2Fv%2BgByxbSXJbvFK0YzwIfKta0vLfQ%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-11-01T14:42:37.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "3c0e6bda-05d8-58e0-aa1b-2dad4f5a483d",
+      "propertyType": "house",
+      "price": "475.000 €",
+      "pricePerSqm": "3.275 €/m²",
+      "rawPricePerSqm": "3275.86",
+      "title": "PROVISIONSFREI! Handwerker gesucht - Doppelhaushälfte mit viel Potenzial",
+      "space": "145.0",
+      "rooms": "5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Schnelsen",
+      "postCode": "22457",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/8Eb7OXlEcE6qohHXLmBXIQ%3D%3D.zLqxns81pEDD%2FJUR%2B2TGq5wwoYHC8rNIB98rKeEB%2FMygkWQzDsAVgT9%2BnWLp9FvNqCbfkqBKJboTuSVeNNYat5%2FWxhggA4Uc%2BV%2Bh50%2F7n%2FCv9h5aRWFYDQcZ9cH%2BqnXtJJeS3sk%2Bitxnhqc%2FgmJmFg%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-11-01T11:28:40.000+01:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "97d17d6b-9ec7-5f9c-917f-9eca71fe3630",
+      "propertyType": "house",
+      "price": "399.000 €",
+      "pricePerSqm": "3.325 €/m²",
+      "rawPricePerSqm": "3325.0",
+      "title": "Gepflegtes Raumwunder mit Keller und großem Grundstück!",
+      "space": "120.0",
+      "rooms": "5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Wilhelmsburg",
+      "postCode": "21109",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/%2B7YAc7whO6deYvp5I1swog%3D%3D.%2F90tdhc8%2BDCGA7FebpJZamZyejD9Kqdk%2FIBk%2F3d3fO70pdfu3NsAJ8Qy1G%2BaKxf2d7T0xfMfolYHRlB13g2Hva6QU1xLFAJg%2FpduHLxg2qAYQspGeliW%2BiIiyJ75g%2B49gjOXlJlAkt3XiotIxf%2Fk2g%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-10-25T18:52:33.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "fa4854ed-0adb-58b1-bf6a-a6ad3e9bd67d",
+      "propertyType": "house",
+      "price": "449.000 €",
+      "pricePerSqm": "3.453 €/m²",
+      "rawPricePerSqm": "3453.85",
+      "title": "Wohnen an der Fischbeker Heide mit jeder Menge Platz",
+      "space": "130.0",
+      "rooms": "5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Neugraben-Fischbek",
+      "postCode": "21149",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/HM82H43p3R7IfsJoZz4NQA%3D%3D.Z5Xo3jvIPy4OIrwwBtlnmrMapzQ2awCaBmK3uEJqAnR43FYKKnRfKEI4fNgWXtrJCnydmtnvSh08%2BCEEjY43avnQSksJnfCPtCKr2NQBYE8geIorxuMuz%2F3kzAVfEJetbcK%2FRfRS8bY5OoOAqS%2FYYg%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-10-18T11:03:10.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "2f28a16f-13d7-5d59-8eb4-19257afb813a",
+      "propertyType": "house",
+      "price": "398.000 €",
+      "pricePerSqm": "3.980 €/m²",
+      "rawPricePerSqm": "3980.0",
+      "title": "Ihr Traumhaus in Arbeit - sanierungsbedürftige Doppelhaushälfte mit Nebengebäude auf großem Areal",
+      "space": "100.0",
+      "rooms": "5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Eidelstedt",
+      "postCode": "22523",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/ZyLgcUPw%2FQhVqopJ0TjMDQ%3D%3D.HA4WHPHCOv9MjmGFeUoGU15s%2FDhR29G6X0Ki%2B5FGpFWqN4DW1w4kN%2BhXdwjt1tWUxUnlngh5%2BFc6XW5MWTL8aKyZlWbh7RGBQS4PKQa7nJ3WsfvlH7VKGMQ7pKamNq62zh2cLKT7dMb%2B5V34W3xB8w%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-10-13T18:26:37.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "79a7d777-286d-5221-a88d-42f6c19a3703",
+      "propertyType": "house",
+      "price": "245.000 €",
+      "pricePerSqm": "2.342 €/m²",
+      "rawPricePerSqm": "2342.26",
+      "title": "Realisieren Sie Ihren Wohntraum - Radelandsiedlung für Handwerker ",
+      "space": "104.6",
+      "rooms": "4.5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Heimfeld",
+      "postCode": "21079",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/Rch8z7Kl3zqD1mRAMJ2fMw%3D%3D.MsJR8MlCY4%2B7bgHUvdW2LAMsPnVgA%2B1tU9JI0%2BsOIiVpxWZfdGlZdEzK85icTx%2BsIaj6v%2F0TFtJSfbTQtLLnJrHnAZKymHyE8%2FuZZHSwJmeaFsP4X6NrUXKB0M%2FbBJRm9ABlRT8oKFZmi86n%2B2UUDA%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-10-07T22:55:20.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "42cb5119-a8f6-58a8-b0dd-0c33bb7d4a2e",
+      "propertyType": "house",
+      "price": "495.000 €",
+      "pricePerSqm": "2.939 €/m²",
+      "rawPricePerSqm": "2939.43",
+      "title": "Ein familienfreundliches Zuhause im Grünen",
+      "space": "168.4",
+      "rooms": "6",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Neuenfelde",
+      "postCode": "21129",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/dOZk5BpUVHJ41ZaRT7%2ByLQ%3D%3D.PBYKICpMwJmNDIhGti%2FJXjsdSmVKifl5WLEqGm7Cexl0KAYfU24zKpWDe54MT3vhpSMEKGxfbNJQLv6TF3HyB2R4una8oj7rgBnH2a6KjUMBP93wUvJx4zmz60%2FMrRCmy%2FiKy%2FKQdjq7uVaY8XYMlg%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-10-06T12:28:19.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "823dc674-2bd0-580c-b332-9ba0f3a7411f",
+      "propertyType": "house",
+      "price": "485.000 €",
+      "pricePerSqm": "4.850 €/m²",
+      "rawPricePerSqm": "4850.0",
+      "title": "Oase in Kichsteinbek/Billstedt von Privat",
+      "space": "100.0",
+      "rooms": "3",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Billstedt",
+      "postCode": "22117",
+      "street": "Steinbeker Marktstraße",
+      "houseNumber": "26",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/rH95NphIzyS8IhXsT%2BD31A%3D%3D.n7q3EJTxPAahmsaN5icbKZ%2FiuG1nwR2dIMHYlSnB3cTnEh%2BbP00y5NOGWMAQhDrhcUXXXQFenLzXQGzRz0oVt%2Bu5V0ZECRXKOsCSvgtbKCoRtrzw5bTKJiz0MDYbES1K4Am08QnXHwOD02AhZIDZcg%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-10-04T20:14:56.000+02:00",
+      "geo": {
+        "lat": 53.53286,
+        "lng": 10.12858
+      }
+    },
+    {
+      "id": "d3c4bf4c-6e72-5770-9fe3-3a3d325c99f2",
+      "propertyType": "house",
+      "price": "449.000 €",
+      "pricePerSqm": "2.993 €/m²",
+      "rawPricePerSqm": "2993.33",
+      "title": "RESERVIERT! Dreifamilienhaus in begehrter Lage von Hamburg-Meiendorf",
+      "space": "150.0",
+      "rooms": "7.5",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Farmsen-Berne",
+      "postCode": "22145",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/9nPbRHw%2Fd8t73Uk8zWpcHg%3D%3D.1QoS%2FHIS6Rf4%2FYBBxojejROXYneh25OQCoa7UVv3wIgtYqmLIRwiY99wqXeQz5jhejtIkpYeTHECCOc9TmwYDS6IjrfyRstqfOC3gUYRHwdy0HsmA%2B2P0YDGk3QvKj9za9%2BWQfkB%2FW3TAFaZ6r%2FNNg%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-09-18T00:51:14.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "dfa8ceda-4df3-562c-824d-c57155dcce61",
+      "propertyType": "house",
+      "price": "499.000 €",
+      "pricePerSqm": "2.626 €/m²",
+      "rawPricePerSqm": "2626.32",
+      "title": "Sehr gut ausgestattetes Einfamilienhaus",
+      "space": "190.0",
+      "rooms": "6",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Hausbruch",
+      "postCode": "21149",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/Z863A3NvuMrKcE9JyeXIyA%3D%3D.q%2BEsESmBnKawMi6fRqEYr2LJGchTj5hE6BjfktTA55LLjMrflV2nJDZM3Oy2LUHTd9ZFqNbA%2BEDT1G1dQQeV6wkZdZbTgelKwrDrg8rf9Uij9L0iO8DdUgR3xxomj3CTCBR5gv6PMThRCDZD27Vrmw%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-08-30T11:20:23.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "3ce4cf01-f551-5163-bdb9-96928c8e1452",
+      "propertyType": "house",
+      "price": "499.000 €",
+      "pricePerSqm": "2.626 €/m²",
+      "rawPricePerSqm": "2626.32",
+      "title": "Besonderes Einfamilienhaus",
+      "space": "190.0",
+      "rooms": "6",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Hausbruch",
+      "postCode": "21149",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/BIA%2BCXeeXmw3MeEFP6hgMQ%3D%3D.rZwccHBPdCT7zB2kT%2B3K17mtwSrtdnWanOMyV8Ef1iw4szYdOACfC8soeAUf7vv8Y4%2BMuCpTvI7FNTV%2BesD3AS004cAOsQToWvhS7SBlPxRobeAlH70mlA9eT9ktimOvVz3m9UoTYGQAwa9SYPt3zA%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-08-30T11:20:23.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "63a4bd64-81b7-5f98-b181-1cea72c33c98",
+      "propertyType": "house",
+      "price": "499.000 €",
+      "pricePerSqm": "2.626 €/m²",
+      "rawPricePerSqm": "2626.32",
+      "title": "EXCLUSIVES Architekten-Einfamilienhaus, für 1-5 Personen oder 5er-Studenten-WG, kaum Garten ",
+      "space": "190.0",
+      "rooms": "6",
+      "brokerFee": "",
+      "buildingYear": 0,
+      "city": "Hamburg",
+      "quarter": "Hausbruch",
+      "postCode": "21149",
+      "street": "",
+      "houseNumber": "",
+      "images": [
+        "https://pq3i9n4002.execute-api.eu-central-1.amazonaws.com/dev/proxy/GHq8ZJTSRL7y8b5EMrMeBA%3D%3D.qGYR3L6Fay2e%2FxxvBwzN%2FeP5AXS4%2FKJV9c2ZUJWtFwwTbW2eb4eHxs6%2BDHHhsCw8WRpQR%2BpZX%2FRk6OsX%2B%2F3RZEToKlnZDeDlegOIeCXBmAutS6EIYjvK8gRRAcwk6BEFXDu7uIfEbcaIN8M0m0DVJg%3D%3D"
+      ],
+      "provider": "immoscout24",
+      "exposeMissing": true,
+      "publishDate": "2023-08-30T11:20:23.000+02:00",
+      "geo": {
+        "lat": 0,
+        "lng": 0
+      }
+    }
+  ],
+  "pagination": {
+    "total": 45,
+    "offset": 21,
+    "limit": 20
+  }
+}
